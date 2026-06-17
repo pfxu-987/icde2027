@@ -11,7 +11,7 @@ In particular, the package structure and base runtime are inherited from the ups
 ```bash
 cd tree-of-thought-llm-bird
 conda activate tot
-export VLLM_BASE_URL=http://127.0.0.1:8005
+export VLLM_BASE_URL=xxxx
 ```
 
 Optional environment variables:
